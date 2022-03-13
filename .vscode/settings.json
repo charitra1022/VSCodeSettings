@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "onFocusChange",
+    "python.terminal.launchArgs": ["activate 'college project'"],
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoSurround": "languageDefined",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+}
