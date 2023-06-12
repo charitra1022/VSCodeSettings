@@ -16,17 +16,63 @@ To set up the settings in your own project, just copy the **.vscode** folder ont
 | Default Debug Console  | Command Prompt |
 | Terminal Arguments     | _any command that you might want to run as soon as you open the terminal. You might want to activate a virtual environment for the project, so enter the commands that are required to be run always._ |
 
-## Useful Extensions
+## Useful Utility Extensions
 |       Extension Name      |          Identifier                   |
 |:-------------------------:|:-------------------------------------:|
 | Carbon Product Icons      | antfu.icons-carbon                    |
 | Prettier - Code formatter | esbenp.prettier-vscode                |
 | file-icons                | file-icons.file-icons                 |
-| Live Server               | ritwickdey.liveserver                 |
-| Markdown Preview Enhanced | shd101wyy.markdown-preview-enhanced   |
 | indent-rainbow            | oderwat.indent-rainbow                |
 | Bracket Pair Colorizer 2  | coenraads.bracket-pair-colorizer-2    |
+| EasyZoom                  | nabeelvalley.easyzoom                 |
+| Code Runner               | formulahendry.code-runner             |
+
+
+## Useful git related Extensions
+|       Extension Name      |          Identifier                   |
+|:-------------------------:|:-------------------------------------:|
+| Markdown Preview Enhanced | shd101wyy.markdown-preview-enhanced   |
+| gitignore                 | codezombiech.gitignore                |
+| Git History               | donjayamanne.githistory               |
+
+
+
+## Useful Web Dev related Extensions
+|       Extension Name      |          Identifier                   |
+|:-------------------------:|:-------------------------------------:|
+| Auto Rename Tag                        | formulahendry.auto-rename-tag      |
+| Live Server                            | ritwickdey.liveserver              |
+| ESLint                                 | dbaeumer.vscode-eslint             | 
+| ES7+ React/Redux/React-Native snippets | dsznajder.es7-react-js-snippets    |
+| Bootstrap 5 Quick Snippets             | anbuselvanrocky.bootstrap5-vscode  |
+| Thunder Client                         | rangav.vscode-thunder-client       |
+
+
+## Useful Python related Extensions
+|       Extension Name      |          Identifier                   |
+|:-------------------------:|:-------------------------------------:|
 | Python IntelliSense       | ms-python.python                      |
+| Code Runner               | formulahendry.code-runner             |
+
+
+## Useful C/C++ related Extensions
+|       Extension Name      |          Identifier                   |
+|:-------------------------:|:-------------------------------------:|
+| Better C++ Syntax         | jeff-hykin.better-cpp-syntax          |
+| C/C++                     | ms-vscode.cpptools                    |
+| Code Runner               | formulahendry.code-runner             |
+
+
+## Useful Java related Extensions
+|               Extension Name             |               Identifier              |
+|:----------------------------------------:|:-------------------------------------:|
+| Language Support for Java(TM) by Red Hat | jeff-hykin.better-cpp-syntax          |
+| Code Runner               | formulahendry.code-runner             |
+
+
+
+
+
 
 The extensions above are extremely useful. To know more about the extensions, you can search the extensions on VSCode by their identifiers.
 
